@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aquib%20Here!&fontAlign=75&fontAlignY=40&color=gradient" height="200" width=90%/>
   
 </div>
-<h1 align="center">Hi 👋,there I'm Aquib.</h1>
-<h3 align="center">I am CSE Junior at the National Institute of Technology, Durgapur. Interested to build my expertise in the tech world. Currently interested in learning Data Structures and Algorithms, Competitive Programming, WebD, and ML. Looking forward to contribute to open source:octocat:.</h3>
+<h1 align="center">Hi 👋 there, I'm Aquib.</h1>
+<h3 align="center">This is me, a CSE Junior at the National Institute of Technology, Durgapur. Interested to build my expertise in the tech world. Currently interested in learning Data Structures and Algorithms, Competitive Programming, WebD, and ML <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. Looking forward to contribute to open source:octocat: and improve my technical skills.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp</h3>
 <hr>
 <br>
 
@@ -21,10 +21,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aquib-zaman-054b4b1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aquib-zaman-054b4b1a9" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aquibzaman88/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aquibzaman88/profile" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aquib_zaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aquib_zaman" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aquib_zaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aquib_zaman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aquib_zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aquib_zaman" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aquibzaman88/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aquibzaman88/profile" height="30" width="40" /></a>
+
 </p>
 
 <br>
