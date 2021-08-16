@@ -27,8 +27,8 @@
 <br>
 
 <p>
-&nbsp;<img  width="48%" src="https://github-readme-stats.vercel.app/api?username=AQUIB-ZAMAN&show_icons=true&locale=en&theme=radical" alt="aquib-zaman" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AQUIB-ZAMAN&show_icons=true&locale=en&layout=compact&theme=radical" alt="aquib-zaman" />
+&nbsp;<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=AQUIB-ZAMAN&show_icons=true&locale=en&theme=radical" alt="aquib-zaman" />
+<img width="38%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AQUIB-ZAMAN&show_icons=true&locale=en&layout=compact&theme=radical" alt="aquib-zaman" />
 </p>
 
 
