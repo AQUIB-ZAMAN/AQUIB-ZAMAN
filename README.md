@@ -8,7 +8,7 @@
 <h3 align="center">This is me, a CSE Junior at the National Institute of Technology, Durgapur. Interested to build my expertise in the tech world. Currently interested in learning Data Structures and Algorithms, Competitive Programming, WebD, and ML <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. Looking forward to contribute to open source:octocat: and improve my technical skills.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp</h3>
 <hr>
 <br>
-<img align="right" alt="GIF" src="https://github.com/AQUIB-ZAMAN/AQUIB-ZAMAN/blob/main/coding.gif" width="40%" height="318" />
+<img align="right" alt="GIF" src="https://github.com/AQUIB-ZAMAN/AQUIB-ZAMAN/blob/main/coding.gif" width="60%" height="318" />
 <h3>Getting to Know Me:</h3>
 
 - 🔭 I’m currently working on **Python projects**
