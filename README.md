@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 there, I'm Aquib.</h1>
 <h2 align="center">Glad to see you here!</h2>
 <hr>
-<h3 align="center">This is me, a CSE Junior at the National Institute of Technology, Durgapur. Interested to build my expertise in the tech world. Currently interested in learning Data Structures and Algorithms, Competitive Programming, WebD, and ML <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. Looking forward to contribute to open source:octocat: and improve my technical skills.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp</h3>
+ <h3 align="center">This is me, a CSE Junior at the National Institute of Technology, Durgapur. Interested to build my expertise in the tech world. Currently interested in learning Data Structures and Algorithms, Competitive Programming, WebD, and ML <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">-->. Looking forward to contribute to open source:octocat: and improve my technical skills.&nbsp;<!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">-->&nbsp</h3> 
 <hr>
 <br>
 <img align="right" alt="GIF" src="https://github.com/AQUIB-ZAMAN/AQUIB-ZAMAN/blob/main/coding.gif" width="60%" height="318" />
@@ -27,7 +27,7 @@
 <br>
 
 <p>
-&nbsp;<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=AQUIB-ZAMAN&show_icons=true&locale=en&theme=radical" alt="aquib-zaman" />
+&nbsp;<img  width="40%" src="https://github-readme-stats.vercel.app/api?username=AQUIB-ZAMAN&show_icons=true&locale=en&theme=radical" alt="aquib-zaman" />
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AQUIB-ZAMAN&show_icons=true&locale=en&layout=compact&theme=radical" alt="aquib-zaman" />
 </p>
 
